@@ -1,9 +1,9 @@
 {
      "NAME":"Malemute Rover",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/Malemute/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/Malemute/Malemute.version",
-	 "DOWNLOAD":"https://github.com/BobPalmer/Malemute/releases",
+	 "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/Malemute/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/Malemute/Malemute.version",
+	 "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/Malemute/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"UmbraSpaceIndustries",
          "ALLOW_PRE_RELEASE":false
      },
